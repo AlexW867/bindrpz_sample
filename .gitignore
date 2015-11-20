@@ -1,0 +1,11 @@
+bind.keys
+db.0
+db.127
+db.255
+db.empty
+db.local
+db.root
+named.conf
+named.conf.default-zones
+rndc.key
+zones.rfc1918

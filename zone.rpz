@@ -1,0 +1,5 @@
+zone "rpz" IN {
+    type master;
+    file "/etc/bind/db.rpz.zone";
+    allow-query {none;};
+};

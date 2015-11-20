@@ -1,0 +1,224 @@
+$TTL 1H
+@   IN  SOA localhost. nobody.localhost (
+            2015110101
+            1h
+            15m
+            30d
+            2h )
+            NS localhost.
+
+; google safe search
+www.google.com       IN CNAME forcesafesearch.google.com.
+www.google.com.tw    IN CNAME forcesafesearch.google.com.
+; google ccTLD
+www.google.ad        IN CNAME forcesafesearch.google.com.
+www.google.ae        IN CNAME forcesafesearch.google.com.
+www.google.com.af    IN CNAME forcesafesearch.google.com.
+www.google.com.ag    IN CNAME forcesafesearch.google.com.
+www.google.com.ai    IN CNAME forcesafesearch.google.com.
+www.google.al        IN CNAME forcesafesearch.google.com.
+www.google.am        IN CNAME forcesafesearch.google.com.
+www.google.co.ao     IN CNAME forcesafesearch.google.com.
+www.google.com.ar    IN CNAME forcesafesearch.google.com.
+www.google.as        IN CNAME forcesafesearch.google.com.
+www.google.at        IN CNAME forcesafesearch.google.com.
+www.google.com.au    IN CNAME forcesafesearch.google.com.
+www.google.az        IN CNAME forcesafesearch.google.com.
+www.google.ba        IN CNAME forcesafesearch.google.com.
+www.google.com.bd    IN CNAME forcesafesearch.google.com.
+www.google.be        IN CNAME forcesafesearch.google.com.
+www.google.bf        IN CNAME forcesafesearch.google.com.
+www.google.bg        IN CNAME forcesafesearch.google.com.
+www.google.com.bh    IN CNAME forcesafesearch.google.com.
+www.google.bi        IN CNAME forcesafesearch.google.com.
+www.google.bj        IN CNAME forcesafesearch.google.com.
+www.google.com.bn    IN CNAME forcesafesearch.google.com.
+www.google.com.bo    IN CNAME forcesafesearch.google.com.
+www.google.com.br    IN CNAME forcesafesearch.google.com.
+www.google.bs        IN CNAME forcesafesearch.google.com.
+www.google.bt        IN CNAME forcesafesearch.google.com.
+www.google.co.bw     IN CNAME forcesafesearch.google.com.
+www.google.by        IN CNAME forcesafesearch.google.com.
+www.google.com.bz    IN CNAME forcesafesearch.google.com.
+www.google.ca        IN CNAME forcesafesearch.google.com.
+www.google.cd        IN CNAME forcesafesearch.google.com.
+www.google.cf        IN CNAME forcesafesearch.google.com.
+www.google.cg        IN CNAME forcesafesearch.google.com.
+www.google.ch        IN CNAME forcesafesearch.google.com.
+www.google.ci        IN CNAME forcesafesearch.google.com.
+www.google.co.ck     IN CNAME forcesafesearch.google.com.
+www.google.cl        IN CNAME forcesafesearch.google.com.
+www.google.cm        IN CNAME forcesafesearch.google.com.
+www.google.cn        IN CNAME forcesafesearch.google.com.
+www.google.com.co    IN CNAME forcesafesearch.google.com.
+www.google.co.cr     IN CNAME forcesafesearch.google.com.
+www.google.com.cu    IN CNAME forcesafesearch.google.com.
+www.google.cv        IN CNAME forcesafesearch.google.com.
+www.google.com.cy    IN CNAME forcesafesearch.google.com.
+www.google.cz        IN CNAME forcesafesearch.google.com.
+www.google.de        IN CNAME forcesafesearch.google.com.
+www.google.dj        IN CNAME forcesafesearch.google.com.
+www.google.dk        IN CNAME forcesafesearch.google.com.
+www.google.dm        IN CNAME forcesafesearch.google.com.
+www.google.com.do    IN CNAME forcesafesearch.google.com.
+www.google.dz        IN CNAME forcesafesearch.google.com.
+www.google.com.ec    IN CNAME forcesafesearch.google.com.
+www.google.ee        IN CNAME forcesafesearch.google.com.
+www.google.com.eg    IN CNAME forcesafesearch.google.com.
+www.google.es        IN CNAME forcesafesearch.google.com.
+www.google.com.et    IN CNAME forcesafesearch.google.com.
+www.google.fi        IN CNAME forcesafesearch.google.com.
+www.google.com.fj    IN CNAME forcesafesearch.google.com.
+www.google.fm        IN CNAME forcesafesearch.google.com.
+www.google.fr        IN CNAME forcesafesearch.google.com.
+www.google.ga        IN CNAME forcesafesearch.google.com.
+www.google.ge        IN CNAME forcesafesearch.google.com.
+www.google.gg        IN CNAME forcesafesearch.google.com.
+www.google.com.gh    IN CNAME forcesafesearch.google.com.
+www.google.com.gi    IN CNAME forcesafesearch.google.com.
+www.google.gl        IN CNAME forcesafesearch.google.com.
+www.google.gm        IN CNAME forcesafesearch.google.com.
+www.google.gp        IN CNAME forcesafesearch.google.com.
+www.google.gr        IN CNAME forcesafesearch.google.com.
+www.google.com.gt    IN CNAME forcesafesearch.google.com.
+www.google.gy        IN CNAME forcesafesearch.google.com.
+www.google.com.hk    IN CNAME forcesafesearch.google.com.
+www.google.hn        IN CNAME forcesafesearch.google.com.
+www.google.hr        IN CNAME forcesafesearch.google.com.
+www.google.ht        IN CNAME forcesafesearch.google.com.
+www.google.hu        IN CNAME forcesafesearch.google.com.
+www.google.co.id     IN CNAME forcesafesearch.google.com.
+www.google.ie        IN CNAME forcesafesearch.google.com.
+www.google.co.il     IN CNAME forcesafesearch.google.com.
+www.google.im        IN CNAME forcesafesearch.google.com.
+www.google.co.in     IN CNAME forcesafesearch.google.com.
+www.google.iq        IN CNAME forcesafesearch.google.com.
+www.google.is        IN CNAME forcesafesearch.google.com.
+www.google.it        IN CNAME forcesafesearch.google.com.
+www.google.je        IN CNAME forcesafesearch.google.com.
+www.google.com.jm    IN CNAME forcesafesearch.google.com.
+www.google.jo        IN CNAME forcesafesearch.google.com.
+www.google.co.jp     IN CNAME forcesafesearch.google.com.
+www.google.co.ke     IN CNAME forcesafesearch.google.com.
+www.google.com.kh    IN CNAME forcesafesearch.google.com.
+www.google.ki        IN CNAME forcesafesearch.google.com.
+www.google.kg        IN CNAME forcesafesearch.google.com.
+www.google.co.kr     IN CNAME forcesafesearch.google.com.
+www.google.com.kw    IN CNAME forcesafesearch.google.com.
+www.google.kz        IN CNAME forcesafesearch.google.com.
+www.google.la        IN CNAME forcesafesearch.google.com.
+www.google.com.lb    IN CNAME forcesafesearch.google.com.
+www.google.li        IN CNAME forcesafesearch.google.com.
+www.google.lk        IN CNAME forcesafesearch.google.com.
+www.google.co.ls     IN CNAME forcesafesearch.google.com.
+www.google.lt        IN CNAME forcesafesearch.google.com.
+www.google.lu        IN CNAME forcesafesearch.google.com.
+www.google.lv        IN CNAME forcesafesearch.google.com.
+www.google.com.ly    IN CNAME forcesafesearch.google.com.
+www.google.co.ma     IN CNAME forcesafesearch.google.com.
+www.google.md        IN CNAME forcesafesearch.google.com.
+www.google.me        IN CNAME forcesafesearch.google.com.
+www.google.mg        IN CNAME forcesafesearch.google.com.
+www.google.mk        IN CNAME forcesafesearch.google.com.
+www.google.ml        IN CNAME forcesafesearch.google.com.
+www.google.com.mm    IN CNAME forcesafesearch.google.com.
+www.google.mn        IN CNAME forcesafesearch.google.com.
+www.google.ms        IN CNAME forcesafesearch.google.com.
+www.google.com.mt    IN CNAME forcesafesearch.google.com.
+www.google.mu        IN CNAME forcesafesearch.google.com.
+www.google.mv        IN CNAME forcesafesearch.google.com.
+www.google.mw        IN CNAME forcesafesearch.google.com.
+www.google.com.mx    IN CNAME forcesafesearch.google.com.
+www.google.com.my    IN CNAME forcesafesearch.google.com.
+www.google.co.mz     IN CNAME forcesafesearch.google.com.
+www.google.com.na    IN CNAME forcesafesearch.google.com.
+www.google.com.nf    IN CNAME forcesafesearch.google.com.
+www.google.com.ng    IN CNAME forcesafesearch.google.com.
+www.google.com.ni    IN CNAME forcesafesearch.google.com.
+www.google.ne        IN CNAME forcesafesearch.google.com.
+www.google.nl        IN CNAME forcesafesearch.google.com.
+www.google.no        IN CNAME forcesafesearch.google.com.
+www.google.com.np    IN CNAME forcesafesearch.google.com.
+www.google.nr        IN CNAME forcesafesearch.google.com.
+www.google.nu        IN CNAME forcesafesearch.google.com.
+www.google.co.nz     IN CNAME forcesafesearch.google.com.
+www.google.com.om    IN CNAME forcesafesearch.google.com.
+www.google.com.pa    IN CNAME forcesafesearch.google.com.
+www.google.com.pe    IN CNAME forcesafesearch.google.com.
+www.google.com.pg    IN CNAME forcesafesearch.google.com.
+www.google.com.ph    IN CNAME forcesafesearch.google.com.
+www.google.com.pk    IN CNAME forcesafesearch.google.com.
+www.google.pl        IN CNAME forcesafesearch.google.com.
+www.google.pn        IN CNAME forcesafesearch.google.com.
+www.google.com.pr    IN CNAME forcesafesearch.google.com.
+www.google.ps        IN CNAME forcesafesearch.google.com.
+www.google.pt        IN CNAME forcesafesearch.google.com.
+www.google.com.py    IN CNAME forcesafesearch.google.com.
+www.google.com.qa    IN CNAME forcesafesearch.google.com.
+www.google.ro        IN CNAME forcesafesearch.google.com.
+www.google.ru        IN CNAME forcesafesearch.google.com.
+www.google.rw        IN CNAME forcesafesearch.google.com.
+www.google.com.sa    IN CNAME forcesafesearch.google.com.
+www.google.com.sb    IN CNAME forcesafesearch.google.com.
+www.google.sc        IN CNAME forcesafesearch.google.com.
+www.google.se        IN CNAME forcesafesearch.google.com.
+www.google.com.sg    IN CNAME forcesafesearch.google.com.
+www.google.sh        IN CNAME forcesafesearch.google.com.
+www.google.si        IN CNAME forcesafesearch.google.com.
+www.google.sk        IN CNAME forcesafesearch.google.com.
+www.google.com.sl    IN CNAME forcesafesearch.google.com.
+www.google.sn        IN CNAME forcesafesearch.google.com.
+www.google.so        IN CNAME forcesafesearch.google.com.
+www.google.sm        IN CNAME forcesafesearch.google.com.
+www.google.sr        IN CNAME forcesafesearch.google.com.
+www.google.st        IN CNAME forcesafesearch.google.com.
+www.google.com.sv    IN CNAME forcesafesearch.google.com.
+www.google.td        IN CNAME forcesafesearch.google.com.
+www.google.tg        IN CNAME forcesafesearch.google.com.
+www.google.co.th     IN CNAME forcesafesearch.google.com.
+www.google.com.tj    IN CNAME forcesafesearch.google.com.
+www.google.tk        IN CNAME forcesafesearch.google.com.
+www.google.tl        IN CNAME forcesafesearch.google.com.
+www.google.tm        IN CNAME forcesafesearch.google.com.
+www.google.tn        IN CNAME forcesafesearch.google.com.
+www.google.to        IN CNAME forcesafesearch.google.com.
+www.google.com.tr    IN CNAME forcesafesearch.google.com.
+www.google.tt        IN CNAME forcesafesearch.google.com.
+www.google.co.tz     IN CNAME forcesafesearch.google.com.
+www.google.com.ua    IN CNAME forcesafesearch.google.com.
+www.google.co.ug     IN CNAME forcesafesearch.google.com.
+www.google.co.uk     IN CNAME forcesafesearch.google.com.
+www.google.com.uy    IN CNAME forcesafesearch.google.com.
+www.google.co.uz     IN CNAME forcesafesearch.google.com.
+www.google.com.vc    IN CNAME forcesafesearch.google.com.
+www.google.co.ve     IN CNAME forcesafesearch.google.com.
+www.google.vg        IN CNAME forcesafesearch.google.com.
+www.google.co.vi     IN CNAME forcesafesearch.google.com.
+www.google.com.vn    IN CNAME forcesafesearch.google.com.
+www.google.vu        IN CNAME forcesafesearch.google.com.
+www.google.ws        IN CNAME forcesafesearch.google.com.
+www.google.rs        IN CNAME forcesafesearch.google.com.
+www.google.co.za     IN CNAME forcesafesearch.google.com.
+www.google.co.zm     IN CNAME forcesafesearch.google.com.
+www.google.co.zw     IN CNAME forcesafesearch.google.com.
+www.google.cat       IN CNAME forcesafesearch.google.com.
+
+; youtube safe search
+; www.youtube.com     IN CNAME restrict.youtube.com.
+; m.youtube.com       IN CNAME restrict.youtube.com.
+; youtubei.googleapis.com     IN CNAME restrict.youtube.com.
+; www.youtube-nocookie.com    IN CNAME restrict.youtube.com.
+
+; block youtube
+www.youtube.com      IN CNAME .
+m.youtube.com        IN CNAME .
+youtubei.googleapis.com    IN CNAME .
+
+; block facebook
+*.facebook.com       IN CNAME .
+
+; block other site
+*.foo.bar      IN CNAME .
+
+; bloak IP
+; Prefix.ip4.ip3.ip2.ip1.rpz-ip   IN A .
